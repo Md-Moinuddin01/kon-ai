@@ -1,5 +1,7 @@
 # KON AI (कानूनी साथी) — Multilingual Legal Assistant for Indian Citizens
 
+<img width="1919" height="959" alt="kon si" src="https://github.com/user-attachments/assets/25d8432f-0dc8-4181-9b8a-238479a93ee8" />
+
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110%2B-009688.svg)](https://fastapi.tiangolo.com/)
 [![Next.js 14](https://img.shields.io/badge/Next.js-14.2-black.svg)](https://nextjs.org/)

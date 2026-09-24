@@ -10,6 +10,8 @@
 [![RAGAS Faithfulness](https://img.shields.io/badge/RAGAS_Faithfulness-0.94-brightgreen.svg)]()
 [![RAGAS Relevancy](https://img.shields.io/badge/RAGAS_Relevancy-0.92-brightgreen.svg)]()
 
+<img width="1886" height="610" alt="image" src="https://github.com/user-attachments/assets/12e71e3a-64dc-434e-817c-82dc07dd5d30" />
+
 > **"Apne Adhikar, Apni Bhasha"** — Simplifying legal documents and statutory rights for Indian citizens in **Hindi (हिंदी)**, **Tamil (தமிழ்)**, **Bengali (বাংলা)**, **Telugu (తెలుగు)**, and **English**.
 
 <img width="1902" height="944" alt="kon ai 2" src="https://github.com/user-attachments/assets/9600abdd-e0d7-4282-a198-760eeea708e6" />

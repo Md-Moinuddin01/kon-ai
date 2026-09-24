@@ -12,6 +12,8 @@
 
 > **"Apne Adhikar, Apni Bhasha"** — Simplifying legal documents and statutory rights for Indian citizens in **Hindi (हिंदी)**, **Tamil (தமிழ்)**, **Bengali (বাংলা)**, **Telugu (తెలుగు)**, and **English**.
 
+<img width="1902" height="944" alt="kon ai 2" src="https://github.com/user-attachments/assets/9600abdd-e0d7-4282-a198-760eeea708e6" />
+
 ---
 
 ## 🏛️ System Architecture
